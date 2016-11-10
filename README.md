@@ -103,7 +103,7 @@ Zellen unterteilt.
 Mithilfe von **Ctrl+m h** kann die Hilfe angezeigt werden.
 
 Einzelne Zellen können mit **Ctrl+Enter** oder **Shift+Enter** ausgeführt werden.
-estart & Run All** ausgeführt werden.
+Das ganze Notebook kann mit dem Menüeintrag **Kernel -> Restart & Run All** ausgeführt werden.
 
 Wird gerade keine Zelle editiert (sonst **Esc** drücken), kann durch Drücken von **a** oder
 **b** eine neue Zelle vor oder nach der alten eingefügt werden (oder das "+" in
