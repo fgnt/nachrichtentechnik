@@ -21,6 +21,9 @@ heranreicht (es fehlt allerdings eine Alternative zu Simulink), ohne dass teure 
 [Es gibt aber Unterschiede in Syntax und Semantik zwischen Python und MATLAB
 ](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html).
 
+### Dokumentationen
+Erste Anlaufstelle für die Benutzung von Python im Allteag ist die Ausführliche [Dokumenatation der Sprache](https://docs.python.org/3.6/).   
+
 Die Darstellung der Notebooks erfolgt durch [jupyter](https://jupyter.org).
 Für die numerischen Berechnungen werden die Pakete
 [numpy](https://docs.scipy.org/doc/numpy/) und
@@ -28,6 +31,10 @@ Für die numerischen Berechnungen werden die Pakete
 die Visualisierungen werden mit [matplotlib](http://matplotlib.org/index.html)
 und [ipython](https://ipython.org/) erstellt.
 
+Eine Einführung in Python im Kontext der Signalverarbeitung bietet der Artikel
+[Adventures in Signal Processing with Python](https://www.embeddedrelated.com/showarticle/197.php).   
+Sehr empfehlenswert ist darüber hinaus das [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), das frei über Github betrachtet (und geklont!) werden kann.   
+Absolute Beginner, die aber bereits anderweitige Programmiererfahrung haben, können die Grundlagen von Python im Buch [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython) durchgehen, das vom selben Autor stammt.
 ## Download der Notebooks
 
 Das ganze Notebook-Repository kann entweder mit
