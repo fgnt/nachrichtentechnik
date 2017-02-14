@@ -4,7 +4,10 @@ Die in diesem Repository enthaltenen Notebooks werden in der Übung zur Vorlesun
 Nachrichtentechnik verwendet. Sie dienen der Visualisierung des Vorlesungsstoffs
 und der Übungsaufgaben.
 
-[Direktlink zu den Notebooks](https://github.com/fgnt/nachrichtentechnik/tree/master/notebooks/Uebungen)
+Die Notebooks können online betrachtet betrachtet werden:
+[Direktlink zu den Notebooks](http://nbviewer.jupyter.org/github/fgnt/Nachrichtentechnik/blob/master/notebooks/Uebungen)
+
+(Hinweis: Die Betrachtung funktioniert auch direkt über Github, die Notebooks werden so jedoch nicht sehr ansprechend gerendert. Deshalb leitet der obige Link auf den nbviewer von jupyter weiter.)
 
 ## Überblick
 
